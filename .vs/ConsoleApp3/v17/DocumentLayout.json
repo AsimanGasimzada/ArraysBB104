@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asiman\\source\\repos\\ConsoleApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83697B6A-1C9F-489B-83A3-26D93EB250B8}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\asiman\\source\\repos\\consoleapp3\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83697B6A-1C9F-489B-83A3-26D93EB250B8}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83697B6A-1C9F-489B-83A3-26D93EB250B8}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\asiman\\source\\repos\\consoleapp3\\consoleapp3\\dollar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83697B6A-1C9F-489B-83A3-26D93EB250B8}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\dollar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83697B6A-1C9F-489B-83A3-26D93EB250B8}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\asiman\\source\\repos\\consoleapp3\\consoleapp3\\manat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83697B6A-1C9F-489B-83A3-26D93EB250B8}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\manat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dollar.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Dollar.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Dollar.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Dollar.cs",
+              "RelativeToolTip": "ConsoleApp3\\Dollar.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T20:24:19.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manat.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Manat.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Manat.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Manat.cs",
+              "RelativeToolTip": "ConsoleApp3\\Manat.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T20:13:54.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Program.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "ConsoleApp3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T20:13:46.995Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
